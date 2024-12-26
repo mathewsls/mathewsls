@@ -2,7 +2,7 @@
 # !Hola!, Soy Mathewsls🛜 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 # Desarrollador de Software Junior 
 ## Acerca de mí
-![Imagen](https://github.com/mathewsls/mathewsls/blob/main/Dise%C3%B1o%20sin%20t%C3%ADtulo.png){: style="display:block; margin: 0 auto; height: 200px;" }
+![Imagen](https://github.com/mathewsls/mathewsls/blob/main/Dise%C3%B1o%20sin%20t%C3%ADtulo.png){: style="display:block; margin: 0 auto; width: 200px;" }
 Soy un apasionado desarrollador de software junior con habilidades en una variedad de tecnologías. Mi enfoque principal es crear soluciones innovadoras y efectivas que satisfagan las necesidades de los usuarios.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tecnologías
