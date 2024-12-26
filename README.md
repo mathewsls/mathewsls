@@ -3,13 +3,11 @@
   <h1 align="center">Desarrollador de Software Junior</h1> 
   <h2 align="center">Acerca de mí</h2>
   <p align="center"><img src="https://github.com/mathewsls/mathewsls/blob/main/banner.png" alt="banner"></p>
-  Soy un apasionado desarrollador de software junior con habilidades en una variedad de tecnologías. Mi enfoque principal es crear soluciones innovadoras y efectivas que satisfagan las necesidades de los usuarios.
+   Soy un apasionado desarrollador de software junior con habilidades en una variedad de tecnologías. Mi enfoque principal es crear soluciones innovadoras y efectivas que satisfagan las necesidades de los usuarios.  
   <h1 align="center">
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"/> Tecnologías
   </h1> 
   <h1 align="center">Lenguajes de programación</h1>
-
-  <h2>Acerca de mí</h2>
 
   <p>Desarrollador apasionado por crear soluciones innovadoras.</p>
 
