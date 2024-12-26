@@ -5,8 +5,8 @@
 
 Soy un apasionado desarrollador de software junior con habilidades en una variedad de tecnologías. Mi enfoque principal es crear soluciones innovadoras y efectivas que satisfagan las necesidades de los usuarios.
 
-## Tecnologías
-### Lenguajes de programación
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tecnologías
+## Lenguajes de programación
 
 * ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 * ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -39,4 +39,10 @@ Soy un apasionado desarrollador de software junior con habilidades en una varied
 * Trabajo en equipo y colaboración en proyectos de desarrollo de software
 * Aprendizaje continuo y adaptación a nuevas tecnologías
 
-
+## Tecnologías/lenguajes que me gustaría aprender
+* ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+* ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)
+* ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+* ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+* ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+* ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
