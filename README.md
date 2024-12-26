@@ -15,7 +15,7 @@ Soy un apasionado desarrollador de software junior con habilidades en una varied
 
 <h2>Habilidades</h2>
 
-<ul>
+<ul style="list-style= none;">
   <li>Desarrollo de aplicaciones web y móviles</li>
   <li>Creación de APIs y servicios web</li>
   <li>Diseño de interfaces de usuario atractivas y responsivas</li>
@@ -25,7 +25,7 @@ Soy un apasionado desarrollador de software junior con habilidades en una varied
 
 <h2>Tecnologías conocidas</h2>
 
-<h3>Lenguajes de programación</h3>
+<h3 style="list-style= none;">Lenguajes de programación</h3>
 
 <ul>
   <li><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></li>
@@ -35,7 +35,7 @@ Soy un apasionado desarrollador de software junior con habilidades en una varied
 
 <h3>Frameworks</h3>
 
-<ul>
+<ul style="list-style= none;">
   <li><img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"></li>
   <li><img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"></li>
   <li><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"></li>
@@ -43,7 +43,7 @@ Soy un apasionado desarrollador de software junior con habilidades en una varied
 
 <h2>Tecnologías que me gustaría aprender</h2>
 
-<ul>
+<ul style="list-style= none;">
   <li><img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"></li>
   <li><img src="https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF" alt="Tauri"></li>
   <li><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".Net"></li>
