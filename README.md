@@ -7,19 +7,6 @@
   <h1 align="center">
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"/> Tecnologías
   </h1> 
-  <h1 align="center">Lenguajes de programación</h1>
-
-  <p>Desarrollador apasionado por crear soluciones innovadoras.</p>
-
-  <h2>Habilidades</h2>
-
-  <p>Desarrollo de aplicaciones web y móviles</p>
-  <p>Creación de APIs y servicios web</p>
-  <p>Diseño de interfaces de usuario atractivas y responsivas</p>
-  <p>Trabajo en equipo y colaboración en proyectos de desarrollo de software</p>
-  <p>Aprendizaje continuo y adaptación a nuevas tecnologías</p>
-
-  <h2>Tecnologías conocidas</h2>
 
   <h3>Lenguajes de programación</h3>
 
@@ -42,3 +29,10 @@
   <p><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"></p>
  <p><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"></p>
 </div>
+  <h2>Habilidades</h2>
+
+  <p>Desarrollo de aplicaciones web y móviles</p>
+  <p>Creación de APIs y servicios web</p>
+  <p>Diseño de interfaces de usuario atractivas y responsivas</p>
+  <p>Trabajo en equipo y colaboración en proyectos de desarrollo de software</p>
+  <p>Aprendizaje continuo y adaptación a nuevas tecnologías</p>
