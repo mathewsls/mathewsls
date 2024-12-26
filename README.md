@@ -28,7 +28,6 @@
   <p><img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"></p>
   <p><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"></p>
  <p><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"></p>
-</div>
   <h2>Habilidades</h2>
 
   <p>Desarrollo de aplicaciones web y móviles</p>
@@ -36,3 +35,5 @@
   <p>Diseño de interfaces de usuario atractivas y responsivas</p>
   <p>Trabajo en equipo y colaboración en proyectos de desarrollo de software</p>
   <p>Aprendizaje continuo y adaptación a nuevas tecnologías</p>
+</div>
+ 
